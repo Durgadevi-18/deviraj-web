@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Deviraj/static/css/main.48bc1923.css",
+    "main.js": "/Deviraj/static/js/main.869775d9.js",
+    "static/js/453.5e6b30ff.chunk.js": "/Deviraj/static/js/453.5e6b30ff.chunk.js",
+    "index.html": "/Deviraj/index.html",
+    "main.48bc1923.css.map": "/Deviraj/static/css/main.48bc1923.css.map",
+    "main.869775d9.js.map": "/Deviraj/static/js/main.869775d9.js.map",
+    "453.5e6b30ff.chunk.js.map": "/Deviraj/static/js/453.5e6b30ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bc1923.css",
+    "static/js/main.869775d9.js"
+  ]
+}
