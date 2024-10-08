@@ -1,8 +1,8 @@
 {
-  "name": "Deviraj",
+  "name": "devirajweb",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Durgadevi-18.github.io/Deviraj",
+  "homepage": "https://Durgadevi-18.github.io/devirajweb",
   "dependencies": {
     "@react-oauth/google": "^0.12.1",
     "react": "^18.3.1",
